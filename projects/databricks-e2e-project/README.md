@@ -1,4 +1,4 @@
-## Databricks Project (Restaurant ML/Analytics)
+## Real-Time Restaurant Analytics Lakehouse 
 
 ![](diagrams/project_architecture.png)
 
