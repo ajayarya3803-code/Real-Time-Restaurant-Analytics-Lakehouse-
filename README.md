@@ -1,1 +1,1 @@
-# databricks-masterclass
+Developed an end-to-end Real-Time Restaurant Analytics Lakehouse on Azure Databricks, integrating streaming data from Azure Event Hubs and operational data from Azure SQL Database using Lakeflow Connect CDC. Implemented a Unity Catalog-governed Medallion architecture with Spark Declarative Pipelines to transform data across Bronze, Silver, and Gold layers. Leveraged Mosaic AI for customer sentiment analysis and Databricks Workflows for orchestration, delivering restaurant performance and sentiment insights through AI/BI dashboards.
